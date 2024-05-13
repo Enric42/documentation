@@ -1,0 +1,122 @@
+{
+    "donnees_economiques": {
+        "exercice": [
+            {
+                "date_debut": "",
+                "date_fin": "",
+                "rang": "N-1",
+                "synthese": [
+                        {
+                            "id": "", 
+                            "valeur": 0
+                        }
+                ]
+            }
+        ]
+    },
+    "donnees_transverses": {
+        "immobilisations":[
+            {
+                "intitule": "",
+                "categorie": "",
+                "date_entree": "",
+                "valeur_entree": 0,
+                "amortissement_economique_cumule": 0,
+                "amortissement_derogatoire_cumule": 0,
+                "date_sortie": "",
+                "valeur_sortie": 0,
+                "type_amortissement": "",
+                "duree_amortissement_annee": 0,
+                "differe_amortissement_mois": 0,
+                "valeur_residuelle": 0,
+                "valeur_nette_comptable": 0
+            }
+        ],
+        "emprunts":[
+            {
+                "type_emprunt": "",
+                "categorie": "",
+                "intitule": "",
+                "nom_banque": "",
+                "nom_emprunteur": "",
+                "montant": 0,
+                "date_realisation": "",
+                "date_premiere_echeance": "",
+                "date_derniere_echeance": "",
+                "date_remboursement": "",
+                "mode_remboursement": "",
+                "periodicite": 0,
+                "taux_adi": 0,
+                "nombre_tetes": 0,
+                "couverture_par_tetes": 0,
+                "taux_1": 0,
+                "nombre_echeances_1": 0,
+                "taux_2": 0,
+                "nombre_echeances_2": 0,
+                "taux_3": 0,
+                "nombre_echeances_3": 0,
+                "differe_capital": 0,
+                "differe_interets": 0
+            }
+        ],
+        "subventions":[
+            {
+                "intitule": "",
+                "categorie": "",
+                "date_entree": "",
+                "valeur_entree": 0,
+                "amortissement_economique_cumule": 0,
+                "amortissement_derogatoire_cumule": 0,
+                "date_sortie": "",
+                "valeur_sortie": 0,
+                "date_echeance": "",
+                "type_amortissement": "",
+                "duree_amortissement_annee": 0,
+                "differe_amortissement_mois": 0,
+                "valeur_residuelle": 0,
+                "valeur_nette_comptable": 0
+            }
+        ]
+    },
+    "donnees_identifications": {
+        "code_entreprise": "",
+        "categorie_juridique": "",
+        "raison_sociale": "",
+        "denomination": "",
+        "siret": 0,
+        "pacage": "",
+        "code_ape": "",
+        "activite": "",
+        "adresse": "",
+        "code_postal": 0,
+        "commune": "",
+        "telephone": 0,
+        "fax": 0,
+        "mobile": 0,
+        "email": "",
+        "exercice_entreprise":[
+            {
+                "date_debut": "",
+                "date_fin": "",
+                "rang": "N-1",
+                "nombre_parts_totales": 0,
+                "valeur_nominale_part": 0,
+                "associe": [
+                    {
+                        "id": 0,
+                        "civilite": "",
+                        "nom": "",
+                        "prenom": "",
+                        "date_naissance": "",
+                        "situation_marital": "",
+                        "statut": "",
+                        "compte_courant_positif": 0,
+                        "compte_courant_negatif": 0,
+                        "comptes_bloques": 0,
+                        "nombre_part": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
